@@ -13111,6 +13111,192 @@
       "addPrice": 3500,
       "removePrice": 1000,
       "degree": 0
+    },
+    {
+      "description": "Timmy has the traits of a dragon so they are considered very good to look at, intellegent, but are still beasts at their core giving them an edge in survival, but also makes them territorial and less tolerant of others.",
+      "stats": [
+        "+1 melee",
+        "-10% rest rate multiplier",
+        "+5% immunity gain speed",
+        "+400% melee dodge chance",
+        "+5% global learning factor",
+        "-5% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kilhn Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 melee",
+          "-10% rest rate multiplier",
+          "+5% immunity gain speed",
+          "+400% melee dodge chance",
+          "+5% global learning factor",
+          "-5% global work speed"
+        ]
+      },
+      "defName": "DragonoidKilhn",
+      "name": "dragonattribute",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has the characteristics of an elder dragon so they are considered extremely good to look at, of superior intellegent, but are still beasts at their core giving them an edge in survival, but also makes them territorial and less tolerant of others.",
+      "stats": [
+        "+2 melee",
+        "+2.0 melee hit chance",
+        "-20% rest rate multiplier",
+        "+15% immunity gain speed",
+        "-3% mental break threshold",
+        "+5.00% social impact",
+        "+800% melee dodge chance",
+        "+5% global learning factor",
+        "+10% pain shock threshold",
+        "-10% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kilhn Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 melee",
+          "+2.0 melee hit chance",
+          "-20% rest rate multiplier",
+          "+15% immunity gain speed",
+          "-3% mental break threshold",
+          "+5.00% social impact",
+          "+800% melee dodge chance",
+          "+5% global learning factor",
+          "+10% pain shock threshold",
+          "-10% global work speed"
+        ]
+      },
+      "defName": "DragonoidKilhn",
+      "name": "elderdragoncharacteristic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has the aspect of an ancient dragon so they are considered bewitching to look at, of vast intellegence, but are still beasts at their core giving them an edge in survival, but also makes them territorial and extremely less tolerant of others.",
+      "stats": [
+        "+3 melee",
+        "+4.0 melee hit chance",
+        "-33% rest rate multiplier",
+        "+25% immunity gain speed",
+        "-7% mental break threshold",
+        "+5.00% trade price improvement",
+        "+10.00% social impact",
+        "+1200% melee dodge chance",
+        "+33% pain shock threshold",
+        "-15% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kilhn Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+4.0 melee hit chance",
+          "-33% rest rate multiplier",
+          "+25% immunity gain speed",
+          "-7% mental break threshold",
+          "+5.00% trade price improvement",
+          "+10.00% social impact",
+          "+1200% melee dodge chance",
+          "+33% pain shock threshold",
+          "-15% global work speed"
+        ]
+      },
+      "defName": "DragonoidKilhn",
+      "name": "ancientdragonaspect",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy has the manifestation of an ancient elder dragon so they are considered beyond bewitching to look at, of unending intellegence, but are no mere beasts, they are almost beyond mortal limits almost guaranteeing survival, these beings will be territorial and will not tolerate others whom they are frustrated with.",
+      "stats": [
+        "+4 melee",
+        "+10.0 melee hit chance",
+        "-67% rest rate multiplier",
+        "+50% immunity gain speed",
+        "-20% mental break threshold",
+        "+25.00% trade price improvement",
+        "+25.00% social impact",
+        "+2500% melee dodge chance",
+        "+33% global learning factor",
+        "+50% pain shock threshold",
+        "-20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kilhn Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 melee",
+          "+10.0 melee hit chance",
+          "-67% rest rate multiplier",
+          "+50% immunity gain speed",
+          "-20% mental break threshold",
+          "+25.00% trade price improvement",
+          "+25.00% social impact",
+          "+2500% melee dodge chance",
+          "+33% global learning factor",
+          "+50% pain shock threshold",
+          "-20% global work speed"
+        ]
+      },
+      "defName": "DragonoidKilhn",
+      "name": "ancientelderdragonmanifestation",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
     }
   ],
   "races": [
@@ -14303,6 +14489,43 @@
       "enabled": true,
       "name": "assembly",
       "price": 667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+10% Flammability",
+          "+0% Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+$4750 Market value",
+          "+4.15 Move speed",
+          "+85 Carrying capacity",
+          "+20.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+0.2 Armor - Blunt",
+          "+0.5 Armor - Sharp",
+          "+75.0% Armor - Heat",
+          "+100 Leather amount",
+          "+90% Toxic sensitivity",
+          "+200% Hunting stealth",
+          "+120% Medical tend quality",
+          "+112% Research speed",
+          "+110% Butchery efficiency",
+          "+80% Animal gather yield",
+          "+80% Plant work speed",
+          "+80% Construction speed",
+          "+80% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline kilhn. These people are proud decendants of an ancient dragoniod race, though their true origins remain a mystery. They are capable hunters boasting increased survivability in almost any climate as they have strong defences and natural weapons. The average Kilhn can live easily to 1500 years old. They dislike the cold and survive on solely a meat diet. They are naturally greedy and fairly lazy, as such they work slower, gather less, make for poor farmers, and generally dislike manual labor unless it's related to hunting.",
+      "defName": "Dragon_Kilhn",
+      "enabled": true,
+      "name": "kilhn",
+      "price": 7917
     }
   ]
 }

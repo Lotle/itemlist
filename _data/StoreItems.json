@@ -22860,6 +22860,192 @@
 		"category": "Stone chunks",
 		"defname": "ChunkGranite"
 	},
+	{
+		"abr": "archotechkilhnarm",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "KArchotechKiArm"
+	},
+	{
+		"abr": "archotechkilhntail",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "KArchotechKilhnTail"
+	},
+	{
+		"abr": "bionickilhnarm",
+		"price": 1075,
+		"category": "Bionic",
+		"defname": "KBionicKiArm"
+	},
+	{
+		"abr": "bionickilhnhand",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "KBionicKiHand"
+	},
+	{
+		"abr": "bionickilhntail",
+		"price": 742,
+		"category": "Bionic",
+		"defname": "KBionicKilhnTail"
+	},
+	{
+		"abr": "bionickilhnwing",
+		"price": 683,
+		"category": "Bionic",
+		"defname": "KBionicKilhnWing"
+	},
+	{
+		"abr": "bionicsnout",
+		"price": 1708,
+		"category": "Bionic",
+		"defname": "KBionicSnout"
+	},
+	{
+		"abr": "bolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_Bolter"
+	},
+	{
+		"abr": "bolter",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "HP_WarcasketGun_Bolter"
+	},
+	{
+		"abr": "bolterrifle",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_BolterRifle"
+	},
+	{
+		"abr": "bolterrifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "HP_WarcasketGun_BolterRifle"
+	},
+	{
+		"abr": "chainsword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChainSword"
+	},
+	{
+		"abr": "chainsword",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "HP_WarcasketMeleeWeapon_ChainSword"
+	},
+	{
+		"abr": "heavybolter",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyBolter"
+	},
+	{
+		"abr": "heavybolter",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyBolter"
+	},
+	{
+		"abr": "kilhn",
+		"price": 7917,
+		"category": "Animal",
+		"defname": "Dragon_Kilhn"
+	},
+	{
+		"abr": "kilhnmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_Dragon_Kilhn"
+	},
+	{
+		"abr": "kilhnscales",
+		"price": 11,
+		"category": "Leathers",
+		"defname": "Leather_Kilhn"
+	},
+	{
+		"abr": "limestonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "marblechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkMarble"
+	},
+	{
+		"abr": "meltagun",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_MeltaGun"
+	},
+	{
+		"abr": "meltagun",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_MeltaGun"
+	},
+	{
+		"abr": "plasmacannon",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_PlasmaCannon"
+	},
+	{
+		"abr": "plasmacannon",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_PlasmaCannon"
+	},
+	{
+		"abr": "powersword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_PowerSword"
+	},
+	{
+		"abr": "powersword",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "HP_WarcasketMeleeWeapon_PowerSword"
+	},
+	{
+		"abr": "prosthetickilhntail",
+		"price": 169,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticKilhnTail"
+	},
+	{
+		"abr": "prosthetickilhnwing",
+		"price": 169,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticKilhnWing"
+	},
+	{
+		"abr": "prostheticsnout",
+		"price": 321,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticSnout"
+	},
+	{
+		"abr": "sandstonechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSandstone"
+	},
+	{
+		"abr": "slatechunk",
+		"price": 4,
+		"category": "Stone chunks",
+		"defname": "ChunkSlate"
+	}
 	],
-	"total": 3814
+	"total": 3845
 }

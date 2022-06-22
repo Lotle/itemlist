@@ -15259,7 +15259,7 @@
     "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "Ammo_Catapult_Boulder": {
+  "KBionicSnout": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15276,7 +15276,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Kilhn Race",
     "KarmaType": null
   },
   "PRF_SteelCrate_I": {
@@ -16479,7 +16479,7 @@
     "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "Ammo_155mmHowitzerShell_HE": {
+  "SimpleProstheticSnout": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16496,10 +16496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Kilhn Race",
     "KarmaType": null
   },
-  "Ammo_155mmHowitzerShell_Incendiary": {
+  "Leather_Kilhn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16516,16 +16516,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Kilhn Race",
     "KarmaType": null
   },
-  "Ammo_155mmHowitzerShell_EMP": {
+  "VFEP_WarcasketGun_PlasmaCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16536,16 +16536,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_155mmHowitzerShell_Smoke": {
+  "VFEP_WarcasketGun_MeltaGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16556,7 +16556,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
   "PRF_SelfCookerIII": {
@@ -16659,13 +16659,13 @@
     "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "Shell_HighExplosive": {
+  "HP_WarcasketGun_StormBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16676,16 +16676,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Shell_Incendiary": {
+  "VFEP_WarcasketGun_HeavyBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16696,16 +16696,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Shell_EMP": {
+  "HP_WarcasketGun_BolterRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16716,16 +16716,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Shell_Firefoam": {
+  "HP_WarcasketGun_Bolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16736,16 +16736,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Shell_Smoke": {
+  "HP_WarcasketMeleeWeapon_ThunderHammer": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16756,16 +16756,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Shell_AntigrainWarhead": {
+  "HP_WarcasketMeleeWeapon_ChainSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16776,16 +16776,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_90mmCannonShell_HEAT": {
+  "HP_WarcasketMeleeWeapon_PowerSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -16796,10 +16796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_90mmCannonShell_HE": {
+  "VFEP_Box_PlasmaCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16816,10 +16816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_90mmCannonShell_EMP": {
+  "VFEP_Box_MeltaGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16836,7 +16836,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Combat Extended",
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
   "PRF_256k_Battery": {
@@ -65499,7 +65499,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "VFEI_Shell_PsychicWarhead": {
+  "VFEP_Box_StormBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -65516,7 +65516,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
   "VCE_BlueCheese": {
@@ -66579,7 +66579,7 @@
     "Mod": "Save Our Ship 2",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_HE": {
+  "VFEP_Box_HeavyBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66596,10 +66596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_Incendiary": {
+  "VFEP_Box_BolterRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66616,10 +66616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_EMP": {
+  "VFEP_Box_Bolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66636,10 +66636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_Smoke": {
+  "VFEP_Box_ThunderHammer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66656,10 +66656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_Firefoam": {
+  "VFEP_Box_PowerSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66676,10 +66676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
-  "Ammo_PanielHowitzerShell_AP": {
+  "VFEP_Box_ChainSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -66696,7 +66696,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Warcaskets: Adeptus Astartes",
     "KarmaType": null
   },
   "SoSArchotechLiver": {
@@ -76277,6 +76277,206 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Pawnmorpher",
+    "KarmaType": null
+  },
+  "SimpleProstheticKilhnWing": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KBionicKilhnWing": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KBionicKiHand": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KBionicKiArm": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KArchotechKiArm": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "SimpleProstheticKilhnTail": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KBionicKilhnTail": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "KArchotechKilhnTail": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "Dragon_Kilhn": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
+    "KarmaType": null
+  },
+  "Meat_Dragon_Kilhn": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kilhn Race",
     "KarmaType": null
   }
 }
